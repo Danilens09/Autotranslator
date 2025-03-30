@@ -18,7 +18,7 @@ function MainPage(props) {
           <div className='space-y-2'>
             <label className='sr-only' htmlFor='input'>
               Enter text to translate
-            </label>gfgfgfgfsgsgsdfda
+            </label>
             <textarea
               className='w-full min-h-[200px] max-h-[300px] border-2 border-gray-200 rounded-lg resize-none focus:outline-none transition-colors dark:border-gray-800'
               id='input'
